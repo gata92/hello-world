@@ -1,4 +1,4 @@
 # hello-world
-Testni repozitorijum da naučim github.
+Testni repozitorijum da github.
 
 Sad je README zavrsen!!!
